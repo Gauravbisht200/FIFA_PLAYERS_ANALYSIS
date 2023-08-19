@@ -31,7 +31,7 @@ fdf
 
       fdf=pd.read_csv('fifa21_raw_data.csv')
 
-```{=html}
+```html
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -343,10 +343,7 @@ fdf
 <p>18979 rows × 77 columns</p>
 </div>
 ```
-:::
-:::
 
-::: {#76be15b5 .cell .markdown}
 ### GETTING THE DATA TYPES
 :::
 
