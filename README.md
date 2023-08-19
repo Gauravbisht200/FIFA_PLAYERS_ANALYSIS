@@ -29,3 +29,4 @@ fdf=pd.read_csv('fifa21_raw_data.csv')
 fdf
 ```
 #### Rest is in FIFAdata.ipynb, have a look there
+https://github.com/Gauravbisht200/FIFA_PLAYERS_ANALYSIS/blob/37dfe56f41f6b0275e59c0849b63ebf3dfd93a63/FIFAdata.ipynb
