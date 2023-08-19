@@ -21,13 +21,9 @@ import matplotlib.pyplot as plt
 import datetime as dt
 import seaborn as sns
 ```
-:::
 
-::: {#44a37cfa .cell .markdown}
 ## SNEAKING IN THE DATA
-:::
 
-::: {#cb8301cb .cell .code execution_count="2"}
 ``` python
 fdf=pd.read_csv('fifa21_raw_data.csv')
 fdf
