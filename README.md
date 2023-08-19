@@ -1,24 +1,4 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.11.2
-  nbformat: 4
-  nbformat_minor: 5
----
 
-::: {#08520e13 .cell .markdown}
 # FIFA PLAYERS DATA ANALYSIS
 
 The primary objective is to unearth insightful trends, attributes, and
@@ -31,13 +11,9 @@ compelling problem statement: How can data-driven insights be
 effectively harnessed to decode the multifaceted dimensions of player
 performance, consequently empowering astute choices that can sway the
 balance between triumph and defeat on the football field.
-:::
 
-::: {#c95d04c7 .cell .markdown}
 ## IMPORTING REQUIRED LIBRARIES
-:::
 
-::: {#cd0109a5 .cell .code execution_count="1"}
 ``` python
 import pandas as pd
 import numpy as np
