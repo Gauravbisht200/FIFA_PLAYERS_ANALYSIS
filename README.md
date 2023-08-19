@@ -29,12 +29,8 @@ fdf=pd.read_csv('fifa21_raw_data.csv')
 fdf
 ```
 
-::: {.output .stream .stderr}
-    C:\Users\91965\AppData\Local\Temp\ipykernel_15712\1923156327.py:1: DtypeWarning: Columns (76) have mixed types. Specify dtype option on import or set low_memory=False.
       fdf=pd.read_csv('fifa21_raw_data.csv')
-:::
 
-::: {.output .execute_result execution_count="2"}
 ```{=html}
 <div>
 <style scoped>
